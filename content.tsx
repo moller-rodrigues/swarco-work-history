@@ -1,1 +1,1 @@
-console.log("gempi")
+console.log("dvqqu")
