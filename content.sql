@@ -3,3 +3,4 @@ SELECT * from cblpu;
 SELECT * from yfdyc;
 SELECT * from gutjc;
 SELECT * from dukio;
+SELECT * from dwgfg;
