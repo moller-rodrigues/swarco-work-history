@@ -1,2 +1,1 @@
 echo "qtruh"
-echo "dpkag"
